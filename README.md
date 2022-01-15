@@ -1,7 +1,7 @@
 Hi! It's nice to e-meet you - I'm Sabina and...
 
 ...I'm currently:  
-- learning Data Analytics at [Ironhack](https://github.com/ironhack-labs) 
+- learning Data Analytics at [Ironhack](https://github.com/ironhack) 
 - working as a PT Financial Analyst at [Bernoulli Finance](https://www.bernoullifinance.com/)
 
 ...I have:
