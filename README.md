@@ -10,6 +10,6 @@ Hi! It's nice to e-meet you - I'm Sabina and...
 
 Would you like to connect? Find me on:
 
-<a href=”https://www.linkedin.com/in/sabinafirtala-data-analyst/”><img src="social-media-logos/linkedin-square.png" width="32px" height=”32px”/></a>
-<a href=”https://portfolio-collective.com/collective/the-collective-network/sabina_firtala/”><img src=social-media-logos/portfolio-collective.png width="100px" height=”32px”/></a>
-<a href=”https://www.upwork.com/freelancers/~01512f077786c6baa7”><img src=social-media-logos/upwork.png width="32px" height=”32px”/></a>
+<a href=”https://www.linkedin.com/in/sabinafirtala-data-analyst/”><img src="social-media-logos/linkedin-square.png" width="32px" height=”32px”></a>
+<a href=”https://portfolio-collective.com/collective/the-collective-network/sabina_firtala/”><img src=social-media-logos/portfolio-collective.png width="100px" height=”32px”></a>
+<a href="https://www.upwork.com/freelancers/~01512f077786c6baa7"><img src="https://github.com/sabinagio/sabinagio/blob/main/social-media-logos/upwork.png" width="32px" height=”32px”></a>
