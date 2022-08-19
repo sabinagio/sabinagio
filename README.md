@@ -1,6 +1,7 @@
 Hi! It's nice to e-meet you - I'm Sabina and...
 
 ...I'm currently:  
+- looking for Data Scientist opportunities in Berlin, Amsterdam, London (but open to other capitals!)
 - working as a PT Teaching Assistant at [Ironhack](https://github.com/ironhack) 
 - working as a PT Financial Analyst at [Bernoulli Finance](https://www.bernoullifinance.com/)
 
