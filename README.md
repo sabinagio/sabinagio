@@ -1,11 +1,11 @@
 Hi! It's nice to e-meet you - I'm Sabina and...
 
 ...I'm currently:  
-- looking for Data Scientist opportunities in Berlin, Amsterdam, London
+- working as a Data Analyst at [Permutable AI](https://permutable.ai/)
 - working as a PT Teaching Assistant at [Ironhack](https://github.com/ironhack) 
-- working as a PT Financial Analyst at [Bernoulli Finance](https://www.bernoullifinance.com/)
 
 ...I have:
+- worked as a Financial Analyst at [Bernoulli Finance](https://www.bernoullifinance.com/)
 - learnt Data Analytics using Python, MySQL & Tableau at [Ironhack](https://github.com/ironhack) 
 - written a master thesis on organic chemistry methodology as part of the [Phipps group](https://phippsgroup.wixsite.com/home/alumni)
 - studied Biological Natural Sciences at the University of Cambridge
