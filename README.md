@@ -2,7 +2,7 @@ Hi! It's nice to e-meet you - I'm Sabina and...
 
 ...I'm currently:  
 - working as a FT Data Analyst at [Permutable AI](https://permutable.ai/)
-- working as a PT Teaching Assistant at [Ironhack](https://github.com/ironhack) 
+- working as a PT Teaching Assistant at [Ironhack's](https://github.com/ironhack) Data Analytics bootcamp
 
 ...I have:
 - worked as a Financial Analyst at [Bernoulli Finance](https://www.bernoullifinance.com/)
