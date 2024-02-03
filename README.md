@@ -1,8 +1,8 @@
 Hi! It's nice to e-meet you - I'm Sabina and...
 
 ...I'm currently:  
+- working as a Freelance Data Analyst for [Frontline 100](https://www.frontline100.com/), [ARISTRA](https://aristra.com/), and [Permutable AI](https://permutable.ai/)
 - working as a PT Lead Teacher at [Ironhack's](https://github.com/ironhack) Data Analytics bootcamp
-- working as a PT Data Analyst at [Permutable AI](https://permutable.ai/)
 
 ...I have:
 - worked as a Teaching Assistant at [Ironhack's](https://github.com/ironhack) Data Analytics bootcamp
