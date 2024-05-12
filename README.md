@@ -1,14 +1,13 @@
 Hi! It's nice to e-meet you - I'm Sabina and...
 
 ...I'm currently:  
-- working as a Freelance Data Scientist for [Frontline 100](https://www.frontline100.com/)
+- working as a Data Scientist for [Frontline 100](https://www.frontline100.com/)
 
 ...I have:
 - worked as a Freelance Data Analyst for [ARISTRA](https://aristra.com/) and [Permutable AI](https://permutable.ai/)
 - worked as a Lead Teacher at [Ironhack's](https://github.com/ironhack) Data Analytics bootcamp
 - worked as a Teaching Assistant at [Ironhack's](https://github.com/ironhack) Data Analytics bootcamp
 - worked as a Financial Analyst at [Bernoulli Finance](https://www.bernoullifinance.com/)
-- learnt Data Analytics using Python, MySQL & Tableau at [Ironhack](https://github.com/ironhack) 
 - written a master thesis on organic chemistry methodology as part of the [Phipps group](https://phippsgroup.wixsite.com/home/alumni)
 - studied Biological Natural Sciences at the University of Cambridge
 
